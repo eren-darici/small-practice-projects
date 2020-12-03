@@ -13,8 +13,8 @@ mailsF = []
 
 applicantsX = df[df['X']==1]
 applicantsY = df[df['Y']==1]
-applicantsTugce = df[df['Z']==1]
-applicantsBatu = df[df['F']==1]
+applicantsZ = df[df['Z']==1]
+applicantsF = df[df['F']==1]
 
 outputX = applicantsX.to_excel('applicantsX.xlsx', engine='xlsxwriter')
 outputY = applicantsY.to_excel('applicantsY.xlsx', engine='xlsxwriter')
