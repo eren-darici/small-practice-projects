@@ -1,7 +1,7 @@
 # small-practice-projects
 The small practice projects to practice that I've learn.
 
-### Python 
+# Python 
 
 * **Discord Bot**: 
 a Discord bot for FRP with HP and Inventory System. Made to practice Python Classes.
@@ -15,4 +15,7 @@ School project for Introduction to Computation and Programming.
 * **Steam Scraper**: 
 Steam Sales Scraper to made Excel file. Made to practice Beautiful Soup and pandas modules.
 
-### C++
+# C++
+
+* **Terminal Number Guessing Game**:
+Basic number guessing game with some random levels.
