@@ -1,7 +1,7 @@
 # small-practice-projects
-The small practice projects to practice that I've learn.
+The small practice projects to practice that I've learned.
 
-# Python 
+### Python 
 
 * **<a href="https://github.com/eren-darici/small-practice-projects/tree/master/DiscordBot">Discord Bot</a>**: 
 a Discord bot for FRP with HP and Inventory System. Made to practice Python Classes.
@@ -15,7 +15,7 @@ School project for Introduction to Computation and Programming.
 * **<a href="https://github.com/eren-darici/small-practice-projects/tree/master/steamScraper">Steam Scraper</a>**: 
 Steam Sales Scraper to made Excel file. Made to practice Beautiful Soup and pandas modules.
 
-# C++
+### C++
 
 * **<a href="https://github.com/eren-darici/small-practice-projects/tree/master/Terminal%20Number%20Guessing%20Game">Terminal Number Guessing Game</a>**:
 Basic number guessing game with some random levels.
